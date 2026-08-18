@@ -15,5 +15,9 @@ The authors of the patent of the nutcracker are Arthur David ReedClarence Arthur
 ## Decide
 Homepage Identity: The homepage is one of the most important parts of a website or a portfolio. If a website is messy or sloppy or generic, a viewer's retention will quickly be lost. It is a common science that many viewers of the ancient newspaper would see the big letters and image of the headline on the front page and would make their assumptions on the rest of the paper *BEFORE* reading the smaller and less noticeable text surrounding the headline. The homepage is important because if made with enough practicality and creativity then a reader or viewer of the homepage can immediately tell what the page is about, where things can be located, and what they expect to find exploring the rest of the website or portfolio.
 
+I changed the title banner image of the main homepage. I had tried to change the text color or background color to be a hint of green since that is the color scheme of UNC Charlotte, so it felt appropriate to add green colors. I couldn't attach the color correctly, so I used another approach, the banner. It's the only image on the homepage and it was inaccurate because it had gears and metal pieces instead of the section I was in, 3D printing. So changing the image not only makes mine more unique, but more class/section appropriate.
+
+My standard for the future documentations I shall make will meet the same standard as this one, full detail, professional, accurate, and practical. If I do learn how to add a bit more creativity, I shall try to implement that into my documentation for more ease of use, but otherwise my documentation standard shall be a formal and complete documentation of my analysis, decisions, and the results of a project.
 ## Communicate
 
+See About Me page.
