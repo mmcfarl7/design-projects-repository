@@ -36,13 +36,18 @@ After doing all the calculations later in the day, I felt really tired, so I fel
 
 I selected the final truss geometry because it is simple, symmetric, and provides a stable load path between the supports and the applied loads (also it was kinda fairly obvious what the design was supposed to be). All truss members were designed with the same cross-sectional geometry, as required by the assignments parameters. Based on the calculated minimum area, I selected a 0.55 in × 0.55 in cross section for each member, providing a cross-sectional area of 0.3025 in² and satisfying the required safety factor.
 
-### Final Model:
+### Final Model and Model Process:
+
+<img width="1216" height="872" alt="image" src="https://github.com/user-attachments/assets/37606350-320b-4153-bbb9-12f73e29e753" />
 
 <img width="2026" height="872" alt="image" src="https://github.com/user-attachments/assets/c2e17274-3c43-4454-9bd6-299457a16636" />
 
+<img width="450" height="408" alt="image" src="https://github.com/user-attachments/assets/f476e936-7c65-44a2-b9f1-190c51e8d9d9" />
+
+### KEYNOTE: The measurements seen above are in inches, converted from meters from my calculations seen in the previous header, since Creo's default was inches and I chose instead of converting to mm I would just convert my paper measurements to inches for Creo's ease of use by default settings.
 
 The selected member area is greater than the calculated minimum required area, providing additional margin while keeping the design simple to manufacture and model.
-I had also calculated that the total weight of the truss system, when the properties of A500 steel was applied, was roughtly 10% higher than my estimated calculations as show above on page 3.
+I had also calculated that the total weight of the truss system, when the properties of A500 steel was applied, was roughtly 10% higher than my estimated calculations as show above on page 3. 
 
 ---
 
