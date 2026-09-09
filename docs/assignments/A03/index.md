@@ -79,4 +79,8 @@ The allowable stress is 40 ksi, so n=40/5.13 which gives us 7.79. Therefor the b
 ### Lessons Learned
 
 I've learned much. Firstly, I've learned how to do simulations in Creo, which was a pain to do on the factor that my current setup as per the time of making this report was not powerful enough to run Creo Simulations. Therefore, most of the work you've seen here is done on more powerful computer monitors in the classroom, even outside class hours. Along with that, as of the time I was working midway on this assignment around the 3rd hour mark when my Creo license expired so I had to redownload the latest Creo software with my student account to continue using Creo modeling software for free, else I'd have to pay thousands of dollars a year to do my work at home instead of in the classroom. Thankfully, with all those issues averted and out of the way, I was able to get all the work done, learned how to do simulations, and I even was able to see in depth how forces and deformations can be shown in model projections instead of in real time, which really shows how far some technology has come.
+
 Total time to complete: 6 hours over the course of multiple days.
+
+Files: 
+[parametric_and_fea_a3.prt.zip](https://github.com/user-attachments/files/32018865/parametric_and_fea_a3.prt.zip)
