@@ -14,8 +14,17 @@ Going through the whole process was like going through a grapevine, you hit one 
 
 After a good lunch, listening to the rain outside for about half an hour to recollect my thoughts, I worked my way through the Multiview sketches, which you will see below after the final calculations below this paragraph. While drawing the Multiview sketches, I decided to just go back and redo all my calculations one by one on paper using my design choice of a 6 inch symmetrical length for all the features excluding the length of feature B, which was 1 inch, until I reached a point where I finished by doing "Logic-Math" (Math solved by patterns or logic like with Feature E I calculated the height based on the heights of both Features C and D) on the height of Feature E since there was no specific height of the base of the T-Bar where the bracket is supposed to slide in. I then finished by learning that all the dimensions were chosen solely by Stiffness over Stress since the Stiffness dimensions were slightly larger than the Stress dimensions, leading to further support against deformations.
 
+<img width="500" height="612" alt="IMG_2578" src="https://github.com/user-attachments/assets/10a10f4e-46f6-404f-b177-f67f0d55a8d4" />
+
+<img width="500" height="612" alt="IMG_2577" src="https://github.com/user-attachments/assets/dcbbbefb-2d31-43f7-bf7b-37bbadaca68b" />
+
 ## Decide
 
+Here you can see the final Multiview sketches I laid out and the In-Depth Analysis where I redid all my calculations to support the dimensions in the Multiview sketches.
+
+<img width="500" height="612" alt="IMG_2579" src="https://github.com/user-attachments/assets/d363e6be-9295-4238-a9fb-90caccc4a1b9" />
+
+<img width="500" height="612" alt="IMG_2580" src="https://github.com/user-attachments/assets/3896b4d7-0cf9-4727-ae07-21f1fce9d228" />
 
 ## Communicate
 
@@ -39,6 +48,10 @@ I assumed the loads for Feature E would be on the endpoints since I had trouble 
 I believe overall the biggest lesson in this assignment was that taking a break for lunch really did help clear my head enough to go back and correct my calculations. It proves you can't do everything in one sitting, that sometimes you need to do things in sections, so you don't tire yourself out. This assignment took me 4-5 hours over the course of 2 days without the lunch break to split it up.
 
 ### Resources
+
+https://www.youtube.com/@Pitlick
+
+- The workshop the teacher provided for additional materials/teachings for lab and lecture-based assignments such as this.
 
 https://www.matweb.com/search/DataSheet.aspx?MatGUID=3a2e111b27ef4e5d813bad6044b3f318&ckck=1 
 
