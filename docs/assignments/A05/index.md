@@ -24,7 +24,19 @@ After a good lunch, listening to the rain outside for about half an hour to reco
 Instead of listing the lessons learned throughout the process, which I will do anyway after answering these questions, we were given prompts to answer:
 
 ### Governing Failure Mode:
-Stiffness definitely was the leading factor in the designing of these dimensions. A good reason doesn't even need a full in-depth explanation, just a simple flaw stated as a fact. The known dimensions given were shown in the T-Bar image in the Objective segment. There you can see the height of C is for the T-Bar is roughly 1.5 inches, which is impossible to fit onto with the dimensions given by the stress analysis (Height of Feature D is 1.283 inches)
+Stiffness definitely was the leading factor in the designing of these dimensions. A good reason doesn't even need a full in-depth explanation, just a simple flaw stated as a fact. The known dimensions given were shown in the T-Bar image in the Objective segment. There you can see the height of C is for the T-Bar is roughly 1.5 inches, which is impossible to fit onto with the dimensions given by the stress analysis (Height of Feature D is 1.283 inches) while the Stiffness analysis was 1.905 inches, which was an acceptable height to fit around the height of the T-Bar.
+
+### Error Propogation:
+
+The error in propagation I had started from the beginning with drawing the FBD for Feature A then Feature B. I had to blink and stop for a few seconds to picture teh effects of the forces in my head and how Feature B would be in equilibrium against Features A and C. I think my calculations were accurate but I did have to go back and double check my initial calculations before I decided to just redo all my math in the calculations you see under Decide.
+
+### Assumption Sensitivity:
+
+I assumed the loads for Feature E would be on the endpoints since I had trouble picturing how the forces traveled through the frame of the bracket after Feature B. I also assumed the material was 6061-T6 aluminum, which if I had assumed the material was another option like titanium, it would've drastically affected the measurements since different materials have different strengths and properties that are affected by applied loads.
+
+### Final Lessons Learned:
+
+I believe overall the biggest lesson in this assignment was that taking a break for lunch really did help clear my head enough to go back and correct my calculations. It proves you can't do everything in one sitting, that sometimes you need to do things in sections, so you don't tire yourself out. This assignment took me 4-5 hours over the course of 2 days without the lunch break to split it up.
 
 ### Resources
 
