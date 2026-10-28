@@ -43,3 +43,6 @@ I chose this sleeve because it had the strongest PV that would withstand my calc
 ## Communicate
 
 This project took 3 hours, and I think my biggest mistake was attempting this project while I was tired and sad. However, this is college, so I must persevere through the hard times if I want to do well. 
+
+CAD Model: [a08.prt.zip](https://github.com/user-attachments/files/34092291/a08.prt.zip)
+
