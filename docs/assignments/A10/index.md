@@ -47,3 +47,5 @@ Lessons Learned: I learned to collaborate with another student even despite the 
 I would argue the biggest struggle/mistake for me in this assignment was initially getting the diameter of the Leadscrew wrong because I was using the wrong type of calculations and also was looking at the wrong website info entirely. The website on the assignment page did not lead to the "Leadscrew" tab, it led to the Nut/Flange tab and I was looking at the wrong set of data for the assignment until I realized the mistake 1 hour into the calculations and thus had to scrap my notes before attempting again. While I wish I remembered to take a picture of my faulty calculations, I had thrown them away out of frustration, but at least I remembered to mention them here in the lesons learned section.
 
 Total Time: 3-4 hours
+
+END OF SECTION FOR GROUPMEMBER MAXWELL MCFARLANE...
