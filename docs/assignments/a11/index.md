@@ -37,6 +37,15 @@ My last objective was to select a bracket that would support/aid the frame from 
 
 <img width="684" height="812" alt="IMG_3113" src="https://github.com/user-attachments/assets/b5e2133d-7a00-4613-bca7-6500cd8c4424" />
 
+### Maxwell's Floating Bearing Mount Design
+
+Here I was tasked with designing a mount for the leadscrew's using an RC3 class fit. Using the 32nd edition Machiner's Handbook, I looked up RC3 class fits and made the appropriate deigns of the top and bottom 2 bearing mounts as shown below. The used tolerances are highlighted in red.
+
+<img width="642" height="312" alt="IMG_3124" src="https://github.com/user-attachments/assets/11fd959a-4b8b-43cf-b4bf-b884710a0458" />
+
+<img width="684" height="812" alt="IMG_3125" src="https://github.com/user-attachments/assets/0899f8de-2d58-4c8c-9f32-07683e9cfc7b" />
+
+
 ## Decide
 ### Motor
 <img width="558" height="340" alt="Screenshot 2026-11-17 102508" src="https://github.com/user-attachments/assets/1e117e1f-fce1-4bed-a103-0b965cbcf970" />
