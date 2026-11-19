@@ -41,7 +41,18 @@ My last objective was to select a bracket that would support/aid the frame from 
 ### Motor
 <img width="558" height="340" alt="Screenshot 2026-11-17 102508" src="https://github.com/user-attachments/assets/1e117e1f-fce1-4bed-a103-0b965cbcf970" />
 
-Total for 2 motors: Varies from 600-800 dollars each depending on gear ratio.
+Total for 2 motors: Varies from 600-800 dollars each depending on gear ratio. (REJECTED)
+
+After some collaboration with my groupmate, I realized an error with the motor selection above, the mount is on the side of the motor instead of the face where it would turn. This provided a design flaw to our final product. Therefore, I searched for a new motor with similar specifications and data much like the one above. Using more resources on the internet, I found the newly selected motor, however the price was not available publicly so the estimate according to other sources around this industrial style gearmotor motor is evaluated at around $550 a motor which is cheaper than the motor above while still providing the same specifications.
+
+[MMP BL87-435A-24V GP81-059.pdf](https://github.com/user-attachments/files/35060143/MMP.BL87-435A-24V.GP81-059.pdf)
+
+Estimated cost for 2 motors: 2 X $550 = $1100.
+
+Updated Motor speed-torque curve chart:
+
+<img width="489" height="382" alt="MMP BL87-435A-24V GRA81-059 estimated continuous torque-speed curve" src="https://github.com/user-attachments/assets/102ee144-821d-427b-96f0-0135e37aeb07" />
+
 ### Coupling/Connectors
 Motor Side hub X 2 = $418.74
 
